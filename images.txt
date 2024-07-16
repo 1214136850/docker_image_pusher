@@ -1,5 +1,5 @@
 nginx
-mysql-5.7-alpine
+mysql/mysql-server:5.7
 #支持私库
 postgres:13.3-alpine
 rabbitmq:3.10.7-alpine

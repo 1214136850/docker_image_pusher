@@ -6,6 +6,7 @@ rabbitmq:3.10.7-alpine
 doccano/doccano:frontend
 doccano/doccano:backend
 
+
 postgres:14-alpine
 redis:5-alpine
 svhd/logto:1.18.0

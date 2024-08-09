@@ -1,7 +1,7 @@
 nginx
 mysql/mysql-server:5.7
 #支持私库
-postgres:13.3-alpine
+#postgres:13.3-alpine
 rabbitmq:3.10.7-alpine
 doccano/doccano:frontend
 doccano/doccano:backend

@@ -10,5 +10,6 @@ doccano/doccano:backend
 #postgres:14-alpine
 redis:5-alpine
 svhd/logto:1.18.0
+elasticsearch:7.12.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

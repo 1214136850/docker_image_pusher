@@ -15,3 +15,4 @@ elasticsearch:7.12.0
 --platform=linux/arm64 xiaoyaliu/alist
 
 emqx/emqx
+halverneus/static-file-server

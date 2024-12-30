@@ -17,3 +17,4 @@ elasticsearch:7.12.0
 emqx/emqx
 halverneus/static-file-server
 traefik:v2.10
+golang:alpine

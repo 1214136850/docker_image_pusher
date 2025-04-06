@@ -20,7 +20,5 @@ traefik:v2.10
 golang:alpine
 ubuntu
 #2025-04-26
-getmaxun/maxun-backend:latest
 postgres:13
-redis:6
-minio/minio
+

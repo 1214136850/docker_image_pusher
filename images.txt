@@ -24,4 +24,4 @@ postgres:13
 redis:6
 minio/minio
 getmaxun/maxun-backend:latest
-maxun-frontend:latest
+getmaxun/maxun-frontend:latest

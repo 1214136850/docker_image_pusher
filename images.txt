@@ -25,3 +25,4 @@ redis:6
 minio/minio
 getmaxun/maxun-backend:latest
 getmaxun/maxun-frontend:latest
+node:18-alpine

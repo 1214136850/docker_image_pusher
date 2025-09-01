@@ -1,35 +1,35 @@
-nginx
-mysql/mysql-server:5.7
+#nginx
+#mysql/mysql-server:5.7
 #支持私库
 #postgres:13.3-alpine
-rabbitmq:3.10.7-alpine
-doccano/doccano:frontend
-doccano/doccano:backend
+#rabbitmq:3.10.7-alpine
+#doccano/doccano:frontend
+#doccano/doccano:backend
 
 
 #postgres:14-alpine
-redis:6.0.16
-svhd/logto:1.18.0
-elasticsearch:7.12.0
+#redis:6.0.16
+#svhd/logto:1.18.0
+#elasticsearch:7.12.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-emqx/emqx
-halverneus/static-file-server
-traefik:v2.10
-golang:alpine
-ubuntu
+#emqx/emqx
+#halverneus/static-file-server
+#traefik:v2.10
+#golang:alpine
+#ubuntu
 #2025-04-26
-postgres:13
-redis:6
-minio/minio
-getmaxun/maxun-backend:latest
-getmaxun/maxun-frontend:latest
-node:18-alpine
-node:18
+#postgres:13
+#redis:6
+#minio/minio
+#getmaxun/maxun-backend:latest
+#getmaxun/maxun-frontend:latest
+#node:18-alpine
+#node:18
 
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
+#langgenius/dify-api:0.15.3
+#langgenius/dify-web:0.15.3
 langgenius/dify-worker:0.15.3
 
 langgenius/dify-sandbox:0.2.1

@@ -38,3 +38,4 @@ redis:7-alpine
 semitechnologies/weaviate:1.19.0
 nginx:alpine
 ubuntu/squid:latest
+mysql:8.0

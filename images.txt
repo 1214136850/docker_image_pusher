@@ -38,4 +38,4 @@
 #semitechnologies/weaviate:1.19.0
 #nginx:alpine
 #ubuntu/squid:latest
-#mysql:8.0
+mysql:8.0

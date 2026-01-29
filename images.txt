@@ -40,4 +40,5 @@
 #ubuntu/squid:latest
 #mysql:8.0
 #adminer:latest
-node:20-alpine
+#node:20-alpine
+alpine:3.19

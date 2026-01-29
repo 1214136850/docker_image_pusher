@@ -39,4 +39,5 @@
 #nginx:alpine
 #ubuntu/squid:latest
 #mysql:8.0
-adminer:latest
+#adminer:latest
+node:20-alpine

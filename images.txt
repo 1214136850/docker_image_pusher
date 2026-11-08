@@ -42,4 +42,4 @@
 #adminer:latest
 #node:20-alpine
 #alpine:3.19
-funasr-gpu:0.2.1
+registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-gpu-0.2.1

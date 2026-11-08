@@ -41,4 +41,5 @@
 #mysql:8.0
 #adminer:latest
 #node:20-alpine
-alpine:3.19
+#alpine:3.19
+funasr-gpu:0.2.1

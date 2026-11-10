@@ -12,7 +12,7 @@
 #svhd/logto:1.18.0
 #elasticsearch:7.12.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 
 #emqx/emqx
 #halverneus/static-file-server
@@ -42,6 +42,6 @@
 #adminer:latest
 #node:20-alpine
 #alpine:3.19
-registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-gpu-0.2.1
---platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
-
+#registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-gpu-0.2.1
+#--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
+arm64v8/ros:humble-perception-jammy
